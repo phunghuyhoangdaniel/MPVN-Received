@@ -1,0 +1,1 @@
+{"schema":2,"type":"MPVN_CHUNKED_IMAGE_BUNDLE","size":4082241,"totalChunks":2,"chunkBytes":3145728,"digest":"b3cQG11KWbvmy9bVB6w+iWZRGeYVSU92GzeustunzG4=","chunks":[{"index":0,"size":3145728,"sha":"824ab09129cf64cf34de610c56af6f2b034ff50c","digest":""},{"index":1,"size":936513,"sha":"4c398a2a1b3854b6f590bfaf24979bf2cb0605bc","digest":""}]}
